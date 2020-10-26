@@ -12,18 +12,26 @@ Pho
 
 Bo kho
 
-Mustard green soup
+Pickled mustard green soup
 
 Rau muon
 
 
-## Noodles
+## Noodles and Rice
 
 Bun with calamari and fried shrimp.
 
 Bun thit nuong with eggrolls.
 
-Springrolls?
+Fried Rice
+
+## Banh
+
+Banh Bao
+
+Banh Xeo
+
+Banh mi
 
 
 ## Meats
@@ -34,6 +42,9 @@ Carmel chicken
 
 Sweet and sour pork
 
+Little pork
+
+
 ## Extras
 
 Pate
@@ -41,6 +52,16 @@ Pate
 Pickles
 
 Eggrolls
+
+Spring rolls with chili-lemongrass tofu
+
+Shrimp and omelet springrolls
+
+Peanut sauce
+
+Special fish sauce
+
+Pickled mustard greens
 
 ```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center'}
 par(mar = c(4, 4, .1, .1))
