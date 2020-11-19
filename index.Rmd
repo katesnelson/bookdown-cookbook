@@ -51,6 +51,13 @@ Let's build a picture-based TOC.
 </center>
 :::
 
+::: {}
+<center>
+[![](bun_bo_hue.jpeg){width=200, height=200}](#bohue)
+[Bun bo hue](#bohue)
+</center>
+:::
+
 ::::
 
 
