@@ -5,9 +5,9 @@
 
 Ribs
 
-Hot chicken
+### Hot chicken {.unnumbered #hotchicken}
 
-Hot chicken-fried tofu
+Hot chicken-fried tofu {.unnumbered #hottofu}
 
 Home fries
 
@@ -22,6 +22,12 @@ Creamy tomato soup
 Butternut squash mac and cheese
 
 Pasta salad with olives
+
+Biscuits and gravy
+
+Corn chowder
+
+Pulled meat
 
 
 ## Indian
@@ -55,7 +61,7 @@ Marinated tomatoes and cucumbers
 
 Caldo Verde
 
-
+Yorkshire Pudding with Beef and Mushrooms
 
 ## Middle Eastern and African
 
@@ -65,6 +71,11 @@ Doro Wat
 
 Kabobs
 
+# Latin American
+
+Tamales
+
+Picadillo
 
 
 

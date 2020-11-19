@@ -6,7 +6,7 @@ This section is dedicated to Vietnamese recipes.
 
 Bun bo hue
 
-Hu thieu
+Hu tieu
 
 Pho
 
@@ -25,6 +25,72 @@ Bun thit nuong with eggrolls.
 
 Fried Rice
 
+### Bot chien {.unnumbered #botchien}
+
+:::: {style="display: grid; grid-template-columns: 50% 50%; grid-column-gap: 10px;"}
+
+::: {}
+<center>![](bot_chien.jpeg){width=800%}</center>
+:::
+
+:::{}
+Bot chien is a Vietnamese street food consisting of pan-fried rice cakes in a simple egg omelet. Traditionally pan-fried with LOTS of lard, we've worked up a lower grease recipe that still provides the wonderful crisp exterior and soft interior that makes this dish so craveable. This recipe is vegetarian, and is filling and satisfying enough that I've never once heard complaints about there not being any meat.
+:::
+
+::::
+
+</br>
+
+There are 3 components to this dish: the **rice cake**, the **omelet**, and the **sauce**. In many cities you can find pre-made rice (or taro, which works just as well) cakes at an Asian market. However, the rice cakes are simple to make from home if you can't buy them. You just need a large steamer and a heat safe dish that fits inside said steamer.
+
+
+::::: {.blackbox data-latex=""}
+
+Serves 2-3 people.
+
+:::: {style="display: grid; grid-template-columns: 30% 30% 30%; grid-column-gap: 10px;"}
+
+::: {}
+For the rice cake:
+
+- 2 cup rice flour
+- 2 tbsp tapioca starch
+- 1 tbsp sugar
+- 2 tsp oil
+- 1 tsp salt
+:::
+
+::: {}
+For the omelet:
+
+- 2-3 eggs
+- 1/2 bunch green onions
+:::
+
+:::{}
+For the sauce:
+
+- 1 cup soy sauce
+- 1/2 cup sugar
+- 1/2 cup white vinegar
+:::
+
+::::
+
+:::::
+
+</br>
+
+To make the rice cake combine all ingrediants in a large, heat-safe, microwavable bowl. Microwave for 2 minutes then carefully stir, scraping the sides of the bowl. Continue microwaving for ~1 minute intervals, stirring afterwards, until mixture resembles slightly lumpy (and gummy) mashed potatoes. While still warm gently press the mixture into a greased heat-safe casserole dish, Then place inside a large steamer and steam for ~25 minutes until firm and a toothpick inserted in the center comes out mostly clean. (If doubling the recipe increase steaming time.) Allow the rice cake to cool for at least a couple hours.^[You can make these days in advance, but they do not freeze/thaw well so keep them in the fridge.] 
+
+While the rice cake is cooling make the sauce by heating the soy sauce, sugar and vinegar in a small sauce pan until the sugar dissolves and the mixture begins to bubble. Remove from the heat and allow to cool. (You can store this sauce at room temperature in a sterile glass jar.) Go ahead and beat the eggs and chop the green onions into small pieces. When the rice cake is cool cut it into `~ 2 inch X 2 inch X 1/4 inch` thick slices.
+
+Now it's time to pan-fry the rice cakes up. This really needs to be done in small batches or the rice cakes won't crisp up. Heat a teaspoon of oil in a large non-stick skillet and add as many slices of rice cake as will comfortably fit in a single layer in your pan. Once the cakes begin to show a golden-carmel brown color on the bottom flip them over and add a handful of green onions and one more teaspoon of oil to the pan. Once the cakes are crisped on both sides add some of the beaten eggs and fry until the eggs are just cooked through. 
+
+As a "shortcut", particularly if you plan on making this for more than 2 people, I recommend doing an initial cook of the rice cakes on large sheet pans in the oven. Liberally oil a large sheet pan, lay the rice cakes down in a single layer, then bake (use convection or "air-fry" mode if you have it) for 10-15 minutes per side at 525 degrees F. (The goal is to get the crisping started without drying the rice cake out.) You can then quickly finish the cakes with the green onion and egg in the skillet.
+
+Serve the rice cakes with plenty of sauce drizzled over the top, some lime juice, and a bit of chili garlic sauce. Great with a side dish of [smashed cucumber salad](#cucsalad).
+
 ## Banh
 
 Banh Bao
@@ -32,6 +98,8 @@ Banh Bao
 Banh Xeo
 
 Banh mi
+
+Banh with Char Siu pork
 
 
 ## Meats
@@ -43,6 +111,8 @@ Carmel chicken
 Sweet and sour pork
 
 Little pork
+
+Crispy pork belly
 
 
 ## Extras
@@ -62,19 +132,3 @@ Peanut sauce
 Special fish sauce
 
 Pickled mustard greens
-
-```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center'}
-par(mar = c(4, 4, .1, .1))
-plot(pressure, type = 'b', pch = 19)
-```
-
-Reference a figure by its code chunk label with the `fig:` prefix, e.g., see Figure \@ref(fig:nice-fig). Similarly, you can reference tables generated from `knitr::kable()`, e.g., see Table \@ref(tab:nice-tab).
-
-```{r nice-tab, tidy=FALSE}
-knitr::kable(
-  head(iris, 20), caption = 'Here is a nice table!',
-  booktabs = TRUE
-)
-```
-
-You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].

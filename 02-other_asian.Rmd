@@ -7,7 +7,9 @@ Ma po tofu
 
 Ginger fish
 
-BBQ Pork Buns
+### Smashed cucumber salad {.unnumbered #cucsalad}
+
+### BBQ Pork Buns {.unnumbered #bbq}
 
 Sauted bok choy in white sauce
 
