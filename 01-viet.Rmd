@@ -2,7 +2,7 @@
 
 This section is dedicated to Vietnamese recipes.
 
-## Soups
+## Soups {.unnumbered}
 
 ### Bun bo hue {.unnumbered #bohue}
 
