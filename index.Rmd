@@ -21,7 +21,7 @@ Let's build a picture-based TOC.
 <!--  Use nested CSS <div> containers notated using colons per [these directions](https://bookdown.org/yihui/rmarkdown-cookbook/multi-column.html) and cross-referencing per [these instructions](https://bookdown.org/yihui/rmarkdown-cookbook/cross-ref.html). -->
 
 
-:::: {style="display: grid; grid-template-columns: 30% 30% 30%; grid-column-gap: 10px;"} 
+:::: {style="display: grid; grid-template-columns: 33% 33% 33%; grid-column-gap: 10px;"} 
 
 ::: {}
 <center>
@@ -55,6 +55,27 @@ Let's build a picture-based TOC.
 <center>
 [![](bun_bo_hue.jpeg){width=200, height=200}](#bohue)
 [Bun bo hue](#bohue)
+</center>
+:::
+
+::: {}
+<center>
+[![](crusty_bread.jpeg){width=200, height=200}](#crustybread)
+[Crusty bread](#crustybread)
+</center>
+:::
+
+::: {}
+<center>
+[![](moussaka.jpeg){width=200, height=200}](#moussaka)
+[Moussaka](#moussaka)
+</center>
+:::
+
+::: {}
+<center>
+[![](crispy_rice.jpeg){width=200, height=200}](#crispyrice)
+[Crispy Rice](#crispyrice)
 </center>
 :::
 

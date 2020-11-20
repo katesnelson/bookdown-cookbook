@@ -1,19 +1,19 @@
-# Breads and Desserts
+# Breads and Desserts {.unnumbered}
 
 
-## Bread
+## Bread {.unnumbered}
+
+### Crusty bread {.unnumbered #crustybread}
 
 Milk bread (for buns)
 
-### Monkey bread {#monkey}
+### Monkey bread {.unnumbered #monkey}
 
 Naan
 
 Pizza dough
 
 Beer bread
-
-Ciabatta
 
 Dinner rolls
 
@@ -22,7 +22,7 @@ Donuts
 French breakfast puffs
 
 
-## Desserts
+## Desserts {.unnumbered}
 
 ### Creamy cheesecake {.unnumbered #cheesecake}
 
@@ -41,7 +41,7 @@ Delicious, creamy, cheesecake with more protien and less fat. 'Nough said.
 
 Beat cream cheese and sugar until well mixed and cream cheese is soft and fluffy. Add eggs and salt and mix until fully incorporated. Add cream and vanilla and blend until smooth. Pour into a 12 inch nonstick springform pan with a prebaked shortbread or crumb crust. Bake at 300 for ~45 minutes. Let cool completely before serving. Fantastic with warm rhubarb or plum compote.
 
-Rhubarb pie
+### Rhubarb pie {.unnumbered}
 
 White bean paste buns
 

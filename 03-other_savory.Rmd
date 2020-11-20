@@ -1,13 +1,13 @@
-# Other Savory Dishes
+# Other Savory Dishes {.unnumbered}
 
 
-## American
+## American {.unnumbered}
 
 Ribs
 
 ### Hot chicken {.unnumbered #hotchicken}
 
-Hot chicken-fried tofu {.unnumbered #hottofu}
+### Hot chicken-fried tofu {.unnumbered #hottofu}
 
 Home fries
 
@@ -30,7 +30,7 @@ Corn chowder
 Pulled meat
 
 
-## Indian
+## Indian {.unnumbered}
 
 Saag paneer
 
@@ -45,7 +45,9 @@ Tandori Chicken
 Chicken korma
 
 
-## European
+## European {.unnumbered}
+
+### Moussaka {.unnumbered #moussaka}
 
 Spinach and beef lasagna
 
@@ -63,7 +65,7 @@ Caldo Verde
 
 Yorkshire Pudding with Beef and Mushrooms
 
-## Middle Eastern and African
+## Middle Eastern and African {.unnumbered}
 
 Kefta
 
@@ -71,9 +73,11 @@ Doro Wat
 
 Kabobs
 
-# Latin American
+# Latin American {.unnumbered}
 
 Tamales
+
+Papusas
 
 Picadillo
 

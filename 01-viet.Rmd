@@ -1,4 +1,4 @@
-# Vietnamese {#viet}
+# Vietnamese {.unnumbered #viet}
 
 This section is dedicated to Vietnamese recipes.
 
@@ -8,7 +8,7 @@ This section is dedicated to Vietnamese recipes.
 
 <center>![](bun_bo_hue.jpeg){width=80%}</center>
 
-Bun bo hue is a wonderful alternative for those of you tired of pho. It includes both beef and pork in a sweet and savory broth flavored with pineapple, lemongrass, and shrimp paste. While it feels very meat indulgent this recipe easily provides 8 or more servings at well under `2/3` pounds of meat (most of which is lower carbon footprint pork). The seasoning can be amped up a notch by adding a dollop of the spice mix to each bowl.
+Bun bo hue is a wonderful alternative for those of you tired of pho. It includes both beef and pork in a sweet and savory broth flavored with pineapple, lemongrass, and shrimp paste. While it feels very meat indulgent this recipe easily provides 8 or more servings at `~1/2` pounds of meat (most of which is lower carbon footprint pork). The seasoning can be amped up a notch by adding a dollop of the spice mix to each bowl.
 
 </br>
 
@@ -30,6 +30,7 @@ For the broth:
 - 4 stalks lemongrass or `1/8 cup` chopped frozen lemongrass
 - 8-10 cups water
 - 2 tbsp shrimp paste
+- 2 tbsp spice mix
 :::
 
 ::: {}
@@ -63,23 +64,7 @@ For the soup:
 
 </br>
 
-1. To make the rice cake combine all ingredients in a large, heat-safe, microwavable bowl. Microwave for 2 minutes then carefully stir, scraping the sides of the bowl. Continue microwaving for ~1 minute intervals, stirring afterwards, until mixture resembles slightly lumpy (and gummy) mashed potatoes. 
-
-2. While still warm gently press the mixture into a greased heat-safe casserole dish, Then place inside a large steamer and steam for ~25 minutes until firm and a toothpick inserted in the center comes out mostly clean. (If doubling the recipe increase steaming time.) 
-
-3. Allow the rice cake to cool for at least a couple hours.^[You can make these days in advance, but they do not freeze/thaw well so keep them in the fridge.] 
-
-4. While the rice cake is cooling make the sauce by heating the soy sauce, sugar and vinegar in a small sauce pan until the sugar dissolves and the mixture begins to bubble. Remove from the heat and allow to cool. (You can store this sauce at room temperature in a sterile glass jar.) 
-
-5. When the rice cake is cool cut it into `~ 2 inch X 2 inch X 1/4 inch` thick slices. 
-
-6. Beat the eggs and chop the green onions into small pieces.
-
-7. Now it's time to pan-fry the rice cakes. This really needs to be done in small batches or the rice cakes won't crisp up. Heat a teaspoon of oil in a large non-stick skillet and add as many slices of rice cake as will comfortably fit in a single layer in your pan. Once the cakes begin to show a golden-carmel brown color on the bottom flip them over and add a handful of green onions and one more teaspoon of oil to the pan. Once the cakes are crisped on both sides add some of the beaten eggs and fry until the eggs are just cooked through. 
-
-As a "shortcut", particularly if you plan on making this for more than 2 people, I recommend doing an initial cook of the rice cakes on large sheet pans in the oven. Liberally oil a large sheet pan, lay the rice cakes down in a single layer, then bake (use convection or "air-fry" mode if you have it) for 10-15 minutes per side at 525 degrees F. (The goal is to get the crisping started without drying the rice cake out.) You can then quickly finish the cakes with the green onion and egg in the skillet.
-
-Serve the rice cakes with plenty of sauce drizzled over the top, some lime juice, and a bit of chili garlic sauce. Great with a side dish of [smashed cucumber salad](#cucsalad).
+<!--
 
 Hu tieu
 
@@ -91,8 +76,9 @@ Pickled mustard green soup
 
 Rau muon
 
+-->
 
-## Noodles and Rice
+## Noodles and Rice {.unnumbered}
 
 <!--
 
@@ -170,7 +156,9 @@ As a "shortcut", particularly if you plan on making this for more than 2 people,
 
 Serve the rice cakes with plenty of sauce drizzled over the top, some lime juice, and a bit of chili garlic sauce. Great with a side dish of [smashed cucumber salad](#cucsalad).
 
-## Banh
+## Banh {.unnumbered}
+
+<!--
 
 Banh Bao
 
@@ -180,11 +168,15 @@ Banh mi
 
 Banh with Char Siu pork
 
+-->
 
-## Meats
+## Meats {.unnumbered}
 
-Lemongrass pork
+### Lemongrass pork {.unnumbered #lgpork}
 
+<center> ***Coming Soon*** </center>
+
+<!--
 Carmel chicken
 
 Sweet and sour pork
@@ -192,15 +184,24 @@ Sweet and sour pork
 Little pork
 
 Crispy pork belly
+-->
 
 
-## Extras
+## Extras {.unnumbered}
 
-Pate
+<center> ***Coming Soon*** </center>
 
-Pickles
+- Pate
 
-Eggrolls
+- Pickled carrots and daikon
+
+- Eggrolls
+
+- Special fish sauce
+
+- Pickled mustard greens
+
+<!--
 
 Spring rolls with chili-lemongrass tofu
 
@@ -208,6 +209,4 @@ Shrimp and omelet springrolls
 
 Peanut sauce
 
-Special fish sauce
-
-Pickled mustard greens
+-->

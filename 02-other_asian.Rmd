@@ -1,13 +1,11 @@
-# Other Asian
+# Other Asian {.unnumbered}
 
 
-## Chinese
+## Chinese {.unnumbered}
 
 Ma po tofu
 
 Ginger fish
-
-Egg-drop soup
 
 ### Smashed cucumber salad {.unnumbered #cucsalad}
 
@@ -24,7 +22,7 @@ Hot and sour soup
 Egg drop soup
 
 
-## Japanese
+## Japanese {.unnumbered}
 
 Curry buns
 
@@ -39,19 +37,20 @@ Miso
 Fried Shrimp and Calamari Sushi
 
 
-## Korean
+## Korean {.unnumbered}
 
-Crispy Rice with Stir Fried Veggies
+Bibimbap with crispy rice 
 
 Jap chae
 
 Leftover pancakes
 
 
-## Thai
+## Thai {.unnumbered}
 
 Coconut curry
 
+Pad Thai
 
 
 
