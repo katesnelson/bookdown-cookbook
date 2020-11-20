@@ -49,6 +49,10 @@ Chicken korma
 
 ### Moussaka {.unnumbered #moussaka}
 
+
+<center>![](moussaka.jpeg){width=80%}</center>
+
+
 Spinach and beef lasagna
 
 Pasta primavera

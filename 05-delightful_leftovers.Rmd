@@ -1,4 +1,4 @@
-# Delightful Leftovers
+# Delightful Leftovers {.unnumbered}
 
 
 
@@ -13,6 +13,6 @@ Korean Pancakes
 
 Fruit gallette
 
-### Lettuce soup
+### Lettuce soup {.unnumbered}
 Ever feel guilty about tossing that last bit of lettuce that's starting to brown, or isn't quite enough for a salad...? I say unto you, "lettuce eat soup".
 Ever 

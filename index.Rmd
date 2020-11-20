@@ -12,11 +12,10 @@ link-citations: yes
 description: "This is a literal cookbook made using markdown in R with recipes you can actually eat."
 ---
 
-# A Literal Cookbook made using R Bookdown
+# A Literal Cookbook made using R Bookdown {.unnumbered}
 
 This is a cookbook made in R. Yes, a literal cookbook. Not one of those "Cookbook for R" types with "recipes" for R code to do fun stuff with data. This cookbook has recipes that you will actually want to whip up in your kitchen and consume to nourish your body. Why make this in R you ask. Why not? I enjoy R (it clearly has invaded all aspects of my life) and it was an amusing way to learn the `Bookdown` package.
 
-Let's build a picture-based TOC. 
 
 <!--  Use nested CSS <div> containers notated using colons per [these directions](https://bookdown.org/yihui/rmarkdown-cookbook/multi-column.html) and cross-referencing per [these instructions](https://bookdown.org/yihui/rmarkdown-cookbook/cross-ref.html). -->
 
@@ -78,6 +77,21 @@ Let's build a picture-based TOC.
 [Crispy Rice](#crispyrice)
 </center>
 :::
+
+::: {}
+<center>
+[![](pumpkin_mousse_cake.jpg){width=200, height=200}](#pumpkincake)
+[Pumpkin Mousse Cake](#pumpkincake)
+</center>
+:::
+
+::: {}
+<center>
+[![](cheesecake.jpeg){width=200, height=200}](#cheesecake)
+[Creamy Cheesecake](#cheesecake)
+</center>
+:::
+
 
 ::::
 

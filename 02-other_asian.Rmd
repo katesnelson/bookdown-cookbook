@@ -39,7 +39,10 @@ Fried Shrimp and Calamari Sushi
 
 ## Korean {.unnumbered}
 
-Bibimbap with crispy rice 
+### Bibimbap with crispy rice {.unnumbered #crispyrice}
+
+<center>![](crispy_rice.jpeg){width=80%}</center>
+
 
 Jap chae
 

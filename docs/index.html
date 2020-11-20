@@ -71,7 +71,7 @@
 <li><a href="./">A Cookbook</a></li>
 
 <li class="divider"></li>
-<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> A Literal Cookbook made using R Bookdown</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>A Literal Cookbook made using R Bookdown</a></li>
 <li class="chapter" data-level="" data-path="viet.html"><a href="viet.html"><i class="fa fa-check"></i>Vietnamese</a><ul>
 <li class="chapter" data-level="" data-path="viet.html"><a href="viet.html#soups"><i class="fa fa-check"></i>Soups</a><ul>
 <li class="chapter" data-level="" data-path="viet.html"><a href="viet.html#bohue"><i class="fa fa-check"></i>Bun bo hue</a></li>
@@ -91,7 +91,9 @@
 <li class="chapter" data-level="" data-path="other-asian.html"><a href="other-asian.html#bbq"><i class="fa fa-check"></i>BBQ Pork Buns</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="other-asian.html"><a href="other-asian.html#japanese"><i class="fa fa-check"></i>Japanese</a></li>
-<li class="chapter" data-level="" data-path="other-asian.html"><a href="other-asian.html#korean"><i class="fa fa-check"></i>Korean</a></li>
+<li class="chapter" data-level="" data-path="other-asian.html"><a href="other-asian.html#korean"><i class="fa fa-check"></i>Korean</a><ul>
+<li class="chapter" data-level="" data-path="other-asian.html"><a href="other-asian.html#crispyrice"><i class="fa fa-check"></i>Bibimbap with crispy rice</a></li>
+</ul></li>
 <li class="chapter" data-level="" data-path="other-asian.html"><a href="other-asian.html#thai"><i class="fa fa-check"></i>Thai</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="other-savory-dishes.html"><a href="other-savory-dishes.html"><i class="fa fa-check"></i>Other Savory Dishes</a><ul>
@@ -114,12 +116,12 @@
 <li class="chapter" data-level="" data-path="breads-and-desserts.html"><a href="breads-and-desserts.html#desserts"><i class="fa fa-check"></i>Desserts</a><ul>
 <li class="chapter" data-level="" data-path="breads-and-desserts.html"><a href="breads-and-desserts.html#cheesecake"><i class="fa fa-check"></i>Creamy cheesecake</a></li>
 <li class="chapter" data-level="" data-path="breads-and-desserts.html"><a href="breads-and-desserts.html#rhubarb-pie"><i class="fa fa-check"></i>Rhubarb pie</a></li>
+<li class="chapter" data-level="" data-path="breads-and-desserts.html"><a href="breads-and-desserts.html#pumpkincake"><i class="fa fa-check"></i>Pumpkin mousse cake</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="2" data-path="delightful-leftovers.html"><a href="delightful-leftovers.html"><i class="fa fa-check"></i><b>2</b> Delightful Leftovers</a><ul>
-<li class="chapter" data-level="2.0.1" data-path="delightful-leftovers.html"><a href="delightful-leftovers.html#lettuce-soup"><i class="fa fa-check"></i><b>2.0.1</b> Lettuce soup</a></li>
+<li class="chapter" data-level="" data-path="delightful-leftovers.html"><a href="delightful-leftovers.html"><i class="fa fa-check"></i>Delightful Leftovers</a><ul>
+<li class="chapter" data-level="" data-path="delightful-leftovers.html"><a href="delightful-leftovers.html#lettuce-soup"><i class="fa fa-check"></i>Lettuce soup</a></li>
 </ul></li>
-<li class="chapter" data-level="3" data-path="final-words.html"><a href="final-words.html"><i class="fa fa-check"></i><b>3</b> Final Words</a></li>
 <li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
@@ -146,10 +148,9 @@
 <p class="author"><em>Kate Nelson</em></p>
 <p class="date"><em>2020-11-20</em></p>
 </div>
-<div id="a-literal-cookbook-made-using-r-bookdown" class="section level1">
-<h1><span class="header-section-number">Chapter 1</span> A Literal Cookbook made using R Bookdown</h1>
+<div id="a-literal-cookbook-made-using-r-bookdown" class="section level1 unnumbered">
+<h1>A Literal Cookbook made using R Bookdown</h1>
 <p>This is a cookbook made in R. Yes, a literal cookbook. Not one of those “Cookbook for R” types with “recipes” for R code to do fun stuff with data. This cookbook has recipes that you will actually want to whip up in your kitchen and consume to nourish your body. Why make this in R you ask. Why not? I enjoy R (it clearly has invaded all aspects of my life) and it was an amusing way to learn the <code>Bookdown</code> package.</p>
-<p>Let’s build a picture-based TOC.</p>
 <!--  Use nested CSS <div> containers notated using colons per [these directions](https://bookdown.org/yihui/rmarkdown-cookbook/multi-column.html) and cross-referencing per [these instructions](https://bookdown.org/yihui/rmarkdown-cookbook/cross-ref.html). -->
 <div style="display: grid; grid-template-columns: 33% 33% 33%; grid-column-gap: 10px;">
 <div>
@@ -196,8 +197,20 @@
 </div>
 <div>
 <center>
-<a href="#crispyrice"><img src="crispy_rice.jpeg" height="200" /></a>
-<a href="#crispyrice">Crispy Rice</a>
+<a href="other-asian.html#crispyrice"><img src="crispy_rice.jpeg" height="200" /></a>
+<a href="other-asian.html#crispyrice">Crispy Rice</a>
+</center>
+</div>
+<div>
+<center>
+<a href="breads-and-desserts.html#pumpkincake"><img src="pumpkin_mousse_cake.jpg" height="200" /></a>
+<a href="breads-and-desserts.html#pumpkincake">Pumpkin Mousse Cake</a>
+</center>
+</div>
+<div>
+<center>
+<a href="breads-and-desserts.html#cheesecake"><img src="cheesecake.jpeg" height="200" /></a>
+<a href="breads-and-desserts.html#cheesecake">Creamy Cheesecake</a>
 </center>
 </div>
 </div>

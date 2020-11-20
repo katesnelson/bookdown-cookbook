@@ -5,6 +5,8 @@
 
 ### Crusty bread {.unnumbered #crustybread}
 
+<center>![](crusty_bread.jpeg){width=80%}</center>
+
 Milk bread (for buns)
 
 ### Monkey bread {.unnumbered #monkey}
@@ -45,7 +47,9 @@ Beat cream cheese and sugar until well mixed and cream cheese is soft and fluffy
 
 White bean paste buns
 
-Pumpkin mousse cake
+### Pumpkin mousse cake {.unnumbered #pumpkincake}
+
+<center>![](pumpkin_mousse_cake.jpg){width=80%}</center>
 
 Crepes
 
