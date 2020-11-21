@@ -12,7 +12,7 @@ link-citations: yes
 description: "This is a literal cookbook made using markdown in R with recipes you can actually eat."
 ---
 
-# A Literal Cookbook made using R Bookdown {.unnumbered}
+# Howdy {.unnumbered}
 
 This is a cookbook made in R. Yes, a literal cookbook. Not one of those "Cookbook for R" types with "recipes" for R code to do fun stuff with data. This cookbook has recipes that you will actually want to whip up in your kitchen and consume to nourish your body. Why make this in R you ask. Why not? I enjoy R (it clearly has invaded all aspects of my life) and it was an amusing way to learn the `Bookdown` package.
 
@@ -24,70 +24,70 @@ This is a cookbook made in R. Yes, a literal cookbook. Not one of those "Cookboo
 
 ::: {}
 <center>
-[![](bbq_pork_buns.jpeg){width=200, height=200}](#bbq)
+[![](bbq_pork_buns.jpeg){width=100%}](#bbq)
 [BBQ pork buns](#bbq)
 </center>
 :::
 
 ::: {}
 <center>
-[![](bot_chien.jpeg){width=200, height=200}](#botchien)
+[![](bot_chien.jpeg){width=100%}](#botchien)
 [Bot chien](#botchien)
 </center>
 :::
 
 ::: {}
 <center>
-[![](hot_chicken.jpeg){width=200, height=200}](#hotchicken)
+[![](hot_chicken.jpeg){width=100%}](#hotchicken)
 [Hot Chicken](#hotchicken)
 </center>
 :::
 
 ::: {}
 <center>
-[![](hot_chicken_fried_tofu.jpeg){width=200, height=200}](#hottofu)
+[![](hot_chicken_fried_tofu.jpeg){width=100%}](#hottofu)
 [Hot-chicken-fried tofu](#hottofu)
 </center>
 :::
 
 ::: {}
 <center>
-[![](bun_bo_hue.jpeg){width=200, height=200}](#bohue)
+[![](bun_bo_hue.jpeg){width=100%}](#bohue)
 [Bun bo hue](#bohue)
 </center>
 :::
 
 ::: {}
 <center>
-[![](crusty_bread.jpeg){width=200, height=200}](#crustybread)
+[![](crusty_bread.jpeg){width=100%}](#crustybread)
 [Crusty bread](#crustybread)
 </center>
 :::
 
 ::: {}
 <center>
-[![](moussaka.jpeg){width=200, height=200}](#moussaka)
+[![](moussaka.jpeg){width=100%}](#moussaka)
 [Moussaka](#moussaka)
 </center>
 :::
 
 ::: {}
 <center>
-[![](crispy_rice.jpeg){width=200, height=200}](#crispyrice)
+[![](crispy_rice.jpeg){width=100%}](#crispyrice)
 [Crispy Rice](#crispyrice)
 </center>
 :::
 
 ::: {}
 <center>
-[![](pumpkin_mousse_cake.jpg){width=200, height=200}](#pumpkincake)
+[![](pumpkin_mousse_cake.jpg){width=100%}](#pumpkincake)
 [Pumpkin Mousse Cake](#pumpkincake)
 </center>
 :::
 
 ::: {}
 <center>
-[![](cheesecake.jpeg){width=200, height=200}](#cheesecake)
+[![](cheesecake.jpeg){width=100%}](#cheesecake)
 [Creamy Cheesecake](#cheesecake)
 </center>
 :::

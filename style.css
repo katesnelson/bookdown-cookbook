@@ -52,3 +52,18 @@ p{
   border-radius: 10px;
   text-shadow: 1px 1px black;
 }
+
+.book .book-summary {
+  width: 20%;
+  position:absolute;
+  top:0;
+  left:-20%;
+}
+
+.book.with-summary .book-header.fixed {
+    left: 20%;
+}
+
+.book.with-summary .book-body {
+    left: 20%;
+}
