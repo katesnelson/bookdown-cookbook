@@ -24,21 +24,21 @@ This is a cookbook made in R. Yes, a literal cookbook. Not one of those "Cookboo
 
 ::: {}
 <center>
-[![](bbq_pork_buns.jpeg){width=100%}](#bbq)
+[![](bbq_pork_buns.jpg){width=100%}](#bbq)
 [BBQ pork buns](#bbq)
 </center>
 :::
 
 ::: {}
 <center>
-[![](bot_chien.jpeg){width=100%}](#botchien)
+[![](bot_chien.jpg){width=100%}](#botchien)
 [Bot chien](#botchien)
 </center>
 :::
 
 ::: {}
 <center>
-[![](hot_chicken.jpeg){width=100%}](#hotchicken)
+[![](hot_chicken.jpg){width=100%}](#hotchicken)
 [Hot Chicken](#hotchicken)
 </center>
 :::
