@@ -5,9 +5,16 @@
 
 ### Crusty bread {.unnumbered #crustybread}
 
-<center>![](crusty_bread.jpeg){width=80%}</center>
+<center>![](crusty_bread_small.jpg){width=40%}</center>
 
-Milk bread (for buns)
+### Snail Rolls {.unnumbered #snail rolls}
+
+<center>![](snail_roll_small.jpg){width=40%}</center>
+
+A slightly sweet, low fat, milk bread roll. Great for breakfast or dessert.
+
+
+### An pan (milk bread for filled buns) {.unnumbered #anpan}
 
 ### Monkey bread {.unnumbered #monkey}
 
@@ -49,7 +56,7 @@ White bean paste buns
 
 ### Pumpkin mousse cake {.unnumbered #pumpkincake}
 
-<center>![](pumpkin_mousse_cake.jpg){width=80%}</center>
+<center>![](pumpkin_mousse_cake_small.jpg){width=40%}</center>
 
 Crepes
 

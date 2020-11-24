@@ -20,68 +20,90 @@ This is a cookbook made in R. Yes, a literal cookbook. Not one of those "Cookboo
 <!--  Use nested CSS <div> containers notated using colons per [these directions](https://bookdown.org/yihui/rmarkdown-cookbook/multi-column.html) and cross-referencing per [these instructions](https://bookdown.org/yihui/rmarkdown-cookbook/cross-ref.html). -->
 
 
-:::: {style="display: grid; grid-template-columns: 33% 33% 33%; grid-column-gap: 10px;"} 
+:::: {style="display: grid; grid-template-columns: 25% 25% 25% 25%; grid-column-gap: 10px;
+grid-row-gap: 10px;"} 
 
 ::: {}
 <center>
-[![](bbq_pork_buns.jpg){width=100%}](#bbq)
-[BBQ pork buns](#bbq)
-</center>
-:::
-
-::: {}
-<center>
-[![](bot_chien.jpg){width=100%}](#botchien)
+[![](bot_chien_small.jpg){width=100%}](#botchien)
 [Bot chien](#botchien)
 </center>
 :::
 
 ::: {}
 <center>
-[![](hot_chicken.jpg){width=100%}](#hotchicken)
-[Hot Chicken](#hotchicken)
-</center>
-:::
-
-::: {}
-<center>
-[![](hot_chicken_fried_tofu.jpeg){width=100%}](#hottofu)
-[Hot-chicken-fried tofu](#hottofu)
-</center>
-:::
-
-::: {}
-<center>
-[![](bun_bo_hue.jpeg){width=100%}](#bohue)
+[![](bun_bo_hue_small.jpg){width=100%}](#bohue)
 [Bun bo hue](#bohue)
 </center>
 :::
 
 ::: {}
 <center>
-[![](crusty_bread.jpeg){width=100%}](#crustybread)
+[![](falafel_burger_small.jpg){width=100%}](#burger)
+[Falafel Burger](#burger)
+</center>
+:::
+
+::: {}
+<center>
+[![](bbq_pork_buns_small.jpg){width=100%}](#bbq)
+[BBQ pork buns](#bbq)
+</center>
+:::
+
+::: {}
+<center>
+[![](hot_chicken_small.jpg){width=100%}](#hotchicken)
+[Hot Chicken](#hotchicken)
+</center>
+:::
+
+::: {}
+<center>
+[![](hot_chicken_tofu_small.jpg){width=100%}](#hottofu)
+[Hot-chicken-fried tofu](#hottofu)
+</center>
+:::
+
+::: {}
+<center>
+[![](crusty_bread_small.jpg){width=100%}](#crustybread)
 [Crusty bread](#crustybread)
 </center>
 :::
 
 ::: {}
 <center>
-[![](moussaka.jpeg){width=100%}](#moussaka)
+[![](moussaka_small.jpg){width=100%}](#moussaka)
 [Moussaka](#moussaka)
 </center>
 :::
 
 ::: {}
 <center>
-[![](crispy_rice.jpeg){width=100%}](#crispyrice)
+[![](crispy_rice_small.jpg){width=100%}](#crispyrice)
 [Crispy Rice](#crispyrice)
 </center>
 :::
 
 ::: {}
 <center>
-[![](pumpkin_mousse_cake.jpg){width=100%}](#pumpkincake)
+[![](ginger_fish_small.jpg){width=100%}](#gingerfish)
+[Ginger Fish](#gingerfish)
+</center>
+:::
+
+::: {}
+<center>
+[![](pumpkin_mousse_cake_small.jpg){width=100%}](#pumpkincake)
 [Pumpkin Mousse Cake](#pumpkincake)
+</center>
+:::
+
+::: {}
+<center>
+[![](snail_roll_small.jpg){width=100%}](#snailroll)
+[Snail Rolls](#snailroll)
 </center>
 :::
 

@@ -3,13 +3,22 @@
 
 ## Chinese {.unnumbered}
 
-Ma po tofu
+### Ma po tofu {.unnumbered #mapotofu}
 
-Ginger fish
+<center> ***Coming Soon*** </center>
+
+### Ginger fish {.unnumbered #gingerfish}
+
+
+<center>![](ginger_fish_small.jpg){width=40%}</center>
 
 ### Smashed cucumber salad {.unnumbered #cucsalad}
 
+<center> ***Coming Soon*** </center>
+
 ### BBQ Pork Buns {.unnumbered #bbq}
+
+<center>![](bbq_pork_buns_small.jpg){width=40%}</center>
 
 Sauted bok choy in white sauce
 
@@ -41,7 +50,7 @@ Fried Shrimp and Calamari Sushi
 
 ### Bibimbap with crispy rice {.unnumbered #crispyrice}
 
-<center>![](crispy_rice.jpeg){width=80%}</center>
+<center>![](crispy_rice_small.jpg){width=40%}</center>
 
 
 Jap chae

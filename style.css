@@ -9,40 +9,45 @@ p code {
 pre {
   word-break: normal;
   word-wrap: normal;
-  font-family: "Times New Roman", Times, serif;
+  <!--font-family: "Times New Roman", Times, serif;-->
 }
 pre code {
   white-space: inherit;
 }
+a{
+	 <!--font-family: "Times New Roman", Times, serif;-->
+	<!--color:cadetblue;-->
+}
 h3 { /* Header 3 */
   font-size: 20px;
-  font-family: "Times New Roman", Times, serif;
+  font-family:  <!--font-family: "Times New Roman", Times, serif;-->
   color: black;
   font-style: italic;
   text-align: center;
 }
 h2{
-	font-family: "Times New Roman", Times, serif;
+	 <!--font-family: "Times New Roman", Times, serif;-->
 	font-size:24px;
 }
 h1{
 	font-size:large;
-	font-family: "Times New Roman", Times, serif;
+	 <!--font-family: "Times New Roman", Times, serif;-->
 	font-size:28px;
 }
 text{
-	font-family: "Times New Roman", Times, serif;
+	 <!--font-family: "Times New Roman", Times, serif;-->
 	font-size:14px;
 }
 li{
-	font-family: "Times New Roman", Times, serif;
+	 <!--font-family: "Times New Roman", Times, serif;-->
 	font-size:14px;
 }
 p{
-	font-family: "Times New Roman", Times, serif;
+	<!--font-family: "Times New Roman", Times, serif;-->
 	font-size:14px;
 	
 }
+
 
 .blackbox {
   padding: 1em;

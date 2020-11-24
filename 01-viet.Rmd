@@ -6,7 +6,7 @@ This section is dedicated to Vietnamese recipes.
 
 ### Bun bo hue {.unnumbered #bohue}
 
-<center>![](bun_bo_hue.jpeg){width=80%}</center>
+<center>![](bun_bo_hue_small.jpg){width=40%}</center>
 
 Bun bo hue is a wonderful alternative for those of you tired of pho. It includes both beef and pork in a sweet and savory broth flavored with pineapple, lemongrass, and shrimp paste. While it feels very meat indulgent this recipe easily provides 8 or more servings at `~1/2` pounds of meat (most of which is lower carbon footprint pork). The seasoning can be amped up a notch by adding a dollop of the spice mix to each bowl.
 
@@ -21,13 +21,13 @@ Bun bo hue is a wonderful alternative for those of you tired of pho. It includes
 ::: {}
 For the broth:
 
-- 1 large pork bone with some meat attached (or clean pork bones and `1/4 pound` of pork shoulder)
-- 1 large beef bone with some meat attached (or clean beef bones and `1/4 pound` of chuck roast)
+- 1 large pork bone with some meat attached (or clean pork bones and 1/4 pound of pork shoulder)
+- 1 large beef bone with some meat attached (or clean beef bones and 1/4 pound of chuck roast)
 - 1 tbsp salt
 - 1 tbsp sugar
 - 1 can pineapple slices (with juice)
 - 1 large yellow onion
-- 4 stalks lemongrass or `1/8 cup` chopped frozen lemongrass
+- 4 stalks lemongrass or 1/8 cup chopped frozen lemongrass
 - 8-10 cups water
 - 2 tbsp shrimp paste
 - 2 tbsp spice mix
@@ -36,11 +36,11 @@ For the broth:
 ::: {}
 For the spice mix:
 
-- `1/8 cup` chopped lemongrass
-- `1/8 cup` minced shallots
-- `2 tbsp` minced garlic
-- `1 tbsp` annatto seeds
-- `5 tbsp` vegetable oil
+- 1/8 cup chopped lemongrass
+- 1/8 cup minced shallots
+- 2 tbsp minced garlic
+- 1 tbsp annatto seeds
+- 5 tbsp vegetable oil
 - 1 package bun bo hue dry spice powder 
 :::
 
@@ -52,7 +52,7 @@ For the soup:
 - beef and pork from making broth (shredded)
 - vietnamese ham, sliced thin
 - 2 packages bun bo hue noodles (thick rice noodles)
-- `1/4` of a red cabbage, thinly sliced
+- 1/4 of a red cabbage, thinly sliced
 - wedge of lime
 - bunch of mint
 - bunch of thai basil, bean sprouts, sliced banana blossom (optional)
@@ -64,10 +64,12 @@ For the soup:
 
 </br>
 
+
+
+### Hu tieu {.unnumbered #hutieu}
+<center> ***Coming Soon*** </center>
+
 <!--
-
-Hu tieu
-
 Pho
 
 Bo kho
@@ -92,11 +94,10 @@ Fried Rice
 
 ### Bot chien {.unnumbered #botchien}
 
-<center>![](bot_chien.jpeg){width=80%}</center>
+<center>![](bot_chien_small.jpg){width=40%}</center>
 
 Bot chien is a Vietnamese street food consisting of pan-fried rice cakes in a simple egg omelet. Traditionally pan-fried with LOTS of lard, we've worked up a lower grease recipe that still provides the wonderful crisp exterior and soft interior that makes this dish so craveable. This recipe is vegetarian, and is filling and satisfying enough that I've never once heard complaints about there not being any meat.
 
-</br>
 
 There are 3 components to this dish: the **rice cake**, the **omelet**, and the **sauce**. In many cities you can find pre-made rice (or taro, which works just as well) cakes at an Asian market. However, the rice cakes are simple to make from home if you can't buy them. You just need a large steamer and a heat safe dish that fits inside said steamer.
 
@@ -158,13 +159,16 @@ Serve the rice cakes with plenty of sauce drizzled over the top, some lime juice
 
 ## Banh {.unnumbered}
 
+<center> ***Coming Soon*** </center>
+
+
+- Banh Bao
+
+- Banh Xeo
+
+- Banh Mi
+
 <!--
-
-Banh Bao
-
-Banh Xeo
-
-Banh mi
 
 Banh with Char Siu pork
 

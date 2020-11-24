@@ -5,9 +5,42 @@
 
 Ribs
 
+### Falafel burgers {.unnumbered #burger}
+
+<center>![](falafel_burger_small.jpg){width=40%}</center>
+
+A wonderfull, juicy burger with half the meat.
+
+</br>
+
+:::: {.blackbox data-latex=""}
+
+<center>**Ingredients** (4-5 servings)</center>
+
+::: {}
+
+- 2/3 cup powdered falafel mix
+- 1/4 cup water
+- 1/2 onion
+- 1/4 cup breadcrumbs
+- 1 egg
+- 1 lb ground beef
+
+:::
+
+::::
+
+
+
+</br>
+
 ### Hot chicken {.unnumbered #hotchicken}
+<center>![](hot_chicken_small.jpg){width=40%}</center>
+
 
 ### Hot chicken-fried tofu {.unnumbered #hottofu}
+<center>![](hot_chicken_tofu_small.jpg){width=40%}</center>
+
 
 Home fries
 
@@ -50,7 +83,7 @@ Chicken korma
 ### Moussaka {.unnumbered #moussaka}
 
 
-<center>![](moussaka.jpeg){width=80%}</center>
+<center>![](moussaka_small.jpg){width=40%}</center>
 
 
 Spinach and beef lasagna
