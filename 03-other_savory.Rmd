@@ -3,13 +3,11 @@
 
 ## American {.unnumbered}
 
-Ribs
-
 ### Falafel burgers {.unnumbered #burger}
 
 <center>![](falafel_burger_small.jpg){width=40%}</center>
 
-A wonderfull, juicy burger with half the meat.
+A wonderful, juicy burger with half the meat.
 
 </br>
 
@@ -22,17 +20,23 @@ A wonderfull, juicy burger with half the meat.
 - 2/3 cup powdered falafel mix
 - 1/4 cup water
 - 1/2 onion
-- 1/4 cup breadcrumbs
-- 1 egg
+- ~1/4 cup breadcrumbs
+- 1 egg (beaten)
 - 1 lb ground beef
+- seasonings (smoked paprika, granulated garlic, red pepper flakes, salt, black pepper,MSG)
 
 :::
 
 ::::
 
-
-
 </br>
+
+1. Mix water with falafel powder. Add egg, breadcrumbs, and seasonings to taste and mix until well combined.
+
+2. Add the onion and ground beef and gently fold into the falafel mixture.
+
+3. Form into patties and grill.
+
 
 ### Hot chicken {.unnumbered #hotchicken}
 <center>![](hot_chicken_small.jpg){width=40%}</center>
@@ -41,6 +45,43 @@ A wonderfull, juicy burger with half the meat.
 ### Hot chicken-fried tofu {.unnumbered #hottofu}
 <center>![](hot_chicken_tofu_small.jpg){width=40%}</center>
 
+### Corn Chowder {-}
+<center>![](corn_chowder_small.jpg){width=40%}</center>
+
+A slightly sweet and creamy corn chowder with crab and roasted poblano peppers.
+
+</br>
+
+:::: {.blackbox data-latex=""}
+
+<center>**Ingredients** (~8 servings)</center>
+
+::: {}
+
+- 2 cans corn
+- 2 cans cream style corn
+- 2 roasted poblano peppers (seeds removed)
+- 2 onions (diced)
+- 6 cloves of garlic (minced)
+- 3 slices of bacon or salt pork (diced)
+- 2 cans lump crab meat
+- 1 tsp smoked paprika
+- 1/2 tsp chili powder
+- 1/2 tsp onion powder
+- 1/2 tsp garlic powder
+- 1 tsp dried thyme
+- salt and black pepper
+- water/milk?
+:::
+::::
+
+</br>
+
+1. Cook stuff.
+
+2. Add crab.
+
+****
 
 Home fries
 
@@ -60,7 +101,7 @@ Biscuits and gravy
 
 Corn chowder
 
-Pulled meat
+### Pulled meat {-}
 
 
 ## Indian {.unnumbered}
@@ -110,7 +151,7 @@ Doro Wat
 
 Kabobs
 
-# Latin American {.unnumbered}
+## Latin American {.unnumbered}
 
 Tamales
 

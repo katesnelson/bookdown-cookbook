@@ -8,7 +8,7 @@ This section is dedicated to Vietnamese recipes.
 
 <center>![](bun_bo_hue_small.jpg){width=40%}</center>
 
-Bun bo hue is a wonderful alternative for those of you tired of pho. It includes both beef and pork in a sweet and savory broth flavored with pineapple, lemongrass, and shrimp paste. While it feels very meat indulgent this recipe easily provides 8 or more servings at `~1/2` pounds of meat (most of which is lower carbon footprint pork). The seasoning can be amped up a notch by adding a dollop of the spice mix to each bowl.
+Bun bo hue is a wonderful alternative for those of you tired of pho. It includes both beef and pork in a sweet and savory broth flavored with pineapple, lemongrass, and shrimp paste. While it feels very meat indulgent this recipe easily provides 8 or more servings at `~1/2` pounds of meat. The seasoning can be amped up a notch by adding a dollop of the spice mix to each bowl.
 
 </br>
 
@@ -17,6 +17,16 @@ Bun bo hue is a wonderful alternative for those of you tired of pho. It includes
 <center>**Ingredients** (6-8 servings)</center>
 
 :::: {style="display: grid; grid-template-columns: 30% 30% 30%; grid-column-gap: 10px;"}
+::: {}
+For the spice mix:
+
+- 1/8 cup chopped lemongrass
+- 1/8 cup minced shallots
+- 2 tbsp minced garlic
+- 1 tbsp annatto seeds
+- 5 tbsp vegetable oil
+- 1 package bun bo hue dry spice powder^[Make your own by combining: paprika, garlic powder, onion powder, ginger powder and chili powder.] 
+:::
 
 ::: {}
 For the broth:
@@ -31,17 +41,6 @@ For the broth:
 - 8-10 cups water
 - 2 tbsp shrimp paste
 - 2 tbsp spice mix
-:::
-
-::: {}
-For the spice mix:
-
-- 1/8 cup chopped lemongrass
-- 1/8 cup minced shallots
-- 2 tbsp minced garlic
-- 1 tbsp annatto seeds
-- 5 tbsp vegetable oil
-- 1 package bun bo hue dry spice powder 
 :::
 
 ::: {}
@@ -64,13 +63,88 @@ For the soup:
 
 </br>
 
+1. Make the spice mix by heating oil in a small skillet. Add the annatto seeds and fry until fragrant and the oil takes on a reddish color (be careful to not burn the seeds).^[This can be rather messy and will stain your clothes so don't do this while wearing nice clothes.] Remove the annatto seeds from the oil and add the minced garlic and shallots to the oil. Fry for a couple minutes until fragrant then add the chopped lemongrass and dry spice powder. Keep on the heat for a couple minutes more until you have a thick, fragrant red paste.
+
+2. Start the broth by cooking the bones and meat in `~8-10` cups water with salt and sugar until the meat is tender and easily pulls off the bone (about one cycle on "soup" setting in our InstantPot).
+
+3. Remove the meat and set aside. Put the bones back to the water and add a can of pineapple, a whole, peeled yellow onion; and lemongrass stalks or chopped lemongrass. Cover the pot and simmer for at least an hour (or another cycle in the InstantPot).
+
+4. Add shrimp paste and spice mix to the broth then season with salt and sugar as needed.
+
+5. Pour boiling hot broth through a strainer over each prepared bowl of rice noodles, cabbage, herbs, shredded meat, and sliced ham. Serve with a squeeze of lime and a dollop of the spice mix in each bowl.
+
+****
+
 
 
 ### Hu tieu {.unnumbered #hutieu}
+
+<center>![](hu_tieu_small.jpg){width=40%}</center>
+
+Hu tieu, or hu tieu nam vang, is a pork and onion soup served with roast red pork, and sometimes, seafood. Less well known than pho, this Vietnamese version of onion soup is a household favorite.
+
+</br>
+
+::::: {.blackbox data-latex=""}
+
+<center>**Ingredients** (6-8 servings)</center>
+
+:::: {style="display: grid; grid-template-columns: 30% 30% 30%; grid-column-gap: 10px;"}
+
+::: {}
+For the broth:
+
+- 2 large pork bones 
+- 1 tbsp salt
+- 1 tbsp sugar
+- 1 yellow onions (roasted)
+- 4 cloves garlic (roasted)
+- 1-2 carrots
+:::
+
+::: {}
+For the roast red pork:
+
+- 1 pound pork shoulder
+- 3 tbsp Chinese barbeque char siu seasoning powder^[Make your own by combining: five spice powder, granulated garlic, paprika, red pepper flakes, chili powder, cayenne, brown sugar and salt.]
+:::
+
+::: {}
+For the soup:
+
+- broth
+- red pork
+- boiled shrimp (optional)
+- chinese celery
+- green onions
+- fried minced garlic
+- rice noodles (pho noodles) or ramen style noodles
+:::
+
+::::
+:::::
+
+</br>
+
+1. For the roast red pork first slice the pork shoulder into `1/2` inch thick slices then sprinkle with the red pork seasoning and water, mix well, then let marinate for ~30 minutes.
+
+2. Roast the pork slices at 400$^\circ$ for ~30 minutes, turning the slices over after 15 minutes. Slice the pork into bite-sized pieces.
+
+3. Start the broth by simmering the bones in `~8-10` cups water with salt and sugar  for ~1 hour (about one cycle on "soup" setting in our InstantPot).
+
+4. At the same time peel the whole onions and roast at 425$^\circ$ for at least 45 minutes or until browned and the juices are starting to carmelize. Add the whole garlic cloves to the onion roasting pan after ~30 minutes (they will burn if you do them the full time).
+
+5. Add the roasted onions and garlic to the broth and simmer for at least 1 more hour (or another cycle on the InstantPot) then season with fish sauce and sugar to taste.
+
+6. Pour boiling hot broth through a strainer over each prepared bowl of noodles, chopped celery^[Chinese celery, which has thinner stalks and more leaves, is preferred, but normal celery works as well], green onions, red pork and boiled shrimp. Serve with a bit of fried minced garlic on top.
+
+****
+
+### Pho {-}
+
 <center> ***Coming Soon*** </center>
 
 <!--
-Pho
 
 Bo kho
 
@@ -134,7 +208,6 @@ For the sauce:
 :::
 
 ::::
-
 :::::
 
 </br>
@@ -153,7 +226,7 @@ For the sauce:
 
 7. Now it's time to pan-fry the rice cakes. This really needs to be done in small batches or the rice cakes won't crisp up. Heat a teaspoon of oil in a large non-stick skillet and add as many slices of rice cake as will comfortably fit in a single layer in your pan. Once the cakes begin to show a golden-carmel brown color on the bottom flip them over and add a handful of green onions and one more teaspoon of oil to the pan. Once the cakes are crisped on both sides add some of the beaten eggs and fry until the eggs are just cooked through. 
 
-As a "shortcut", particularly if you plan on making this for more than 2 people, I recommend doing an initial cook of the rice cakes on large sheet pans in the oven. Liberally oil a large sheet pan, lay the rice cakes down in a single layer, then bake (use convection or "air-fry" mode if you have it) for 10-15 minutes per side at 525 degrees F. (The goal is to get the crisping started without drying the rice cake out.) You can then quickly finish the cakes with the green onion and egg in the skillet.
+As a "shortcut", particularly if you plan on making this for more than 2 people, I recommend doing an initial cook of the rice cakes on large sheet pans in the oven. Liberally oil a large sheet pan, lay the rice cakes down in a single layer, then bake (use convection or "air-fry" mode if you have it) for 10-15 minutes per side at 525$^\circ$ F. (The goal is to get the crisping started without drying the rice cake out.) You can then quickly finish the cakes with the green onion and egg in the skillet.
 
 Serve the rice cakes with plenty of sauce drizzled over the top, some lime juice, and a bit of chili garlic sauce. Great with a side dish of [smashed cucumber salad](#cucsalad).
 

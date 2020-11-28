@@ -7,6 +7,37 @@
 
 <center>![](crusty_bread_small.jpg){width=40%}</center>
 
+It's all about that crispy, crunchy crust! Replace the water with beer for a nice, mild beer flavor.
+
+</br>
+
+::::: {.blackbox data-latex=""}
+
+<center>**Ingredients** (6-8 servings)</center>
+
+:::: {style="display: grid; grid-template-columns: 90%; grid-column-gap: 10px;"}
+::: {}
+- 4 cups bread flour
+- 1.5 tsp salt
+- 2-3 tsp yeast
+- 2 tbsp gluten
+- 2.5-3 cups water (or beer)
+:::
+::::
+:::::
+
+</br>
+
+1. Dissolve the yeast in 1 cup of the water (lukewarm).
+
+2. Mix all ingredients together in a stand mixer until the dough is smooth and elastic.
+
+3. Let rest in an oiled container overnight or at least until doubled in size.
+
+4. Gently shape into a round, trying to retain as many air holes as possible. Place on a baking tray dusted with semolina flour. Cover with a towel or plastic wrap so it doesn't dry out and let rise for ~45 minutes. Meanwhile, preheat the over to 500$^\circ$.
+
+5. Bake at 500$^\circ$ for ~25 minutes. Pour 1 cup of hot water into the bottom of the oven when placing the bread in the oven. Do not open the oven door for at least 15 minutes to allow the steam from the water to help create the crispy crust.
+
 ### Snail Rolls {.unnumbered #snail rolls}
 
 <center>![](snail_roll_small.jpg){width=40%}</center>
