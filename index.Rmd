@@ -116,8 +116,22 @@ grid-row-gap: 10px;"}
 
 ::: {}
 <center>
-[![](cheesecake.jpeg){width=100%}](#cheesecake)
+[![](cheesecake_small.jpg){width=100%}](#cheesecake)
 [Creamy Cheesecake](#cheesecake)
+</center>
+:::
+
+::: {}
+<center>
+[![](corn_chowder_small.jpg){width=100%}](#cornchowder)
+[Corn Chowder](#cornchowder)
+</center>
+:::
+
+::: {}
+<center>
+[![](squash_mandc_small.jpg){width=100%}](#squashmc)
+[Butternut Squash Mac and Cheese](#squashmc)
 </center>
 :::
 

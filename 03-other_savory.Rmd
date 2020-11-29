@@ -45,7 +45,7 @@ A wonderful, juicy burger with half the meat.
 ### Hot chicken-fried tofu {.unnumbered #hottofu}
 <center>![](hot_chicken_tofu_small.jpg){width=40%}</center>
 
-### Corn Chowder {-}
+### Corn Chowder {- #cornchowder}
 <center>![](corn_chowder_small.jpg){width=40%}</center>
 
 A slightly sweet and creamy corn chowder with crab and roasted poblano peppers.
@@ -93,7 +93,41 @@ BBQ chicken pizza
 
 Creamy tomato soup
 
-Butternut squash mac and cheese
+### Butternut squash mac and cheese {- #squashmc}
+<center>![](squash_mandc_small.jpg){width=40%}</center>
+
+Add butternut squash for a creamy, low(er) fat version of mac and cheese. Yay!
+
+</br>
+
+:::: {.blackbox data-latex=""}
+
+<center>**Ingredients** (~8 servings)</center>
+
+::: {}
+- 2 cups peeled, diced butternut squash
+- 1/2 cup milk
+- 1 tbsp butter
+- 3/4 cup shredded sharp cheddar
+- 1/2 tsp salt
+- 1/4 tsp garlic powder
+- 1/8 tsp ground white pepper
+- 16 oz elbow macaroni or small shells
+:::
+::::
+
+</br>
+
+1. Boil or steam butternut until tender, about 20 minutes. Drain if needed.
+
+2. Cook pasta  in boiling salted water until al dente, about 8-10 minutes. Reserve 1 cup of pasta water before draining.
+
+3. Combine the (hot) butternut, butter, milk, salt, and pepper in a blender and purée until smooth. Add the cheese and blend for 5 seconds.
+
+4. Combine butternut cheese sauce and macaroni. Add pasta water a little bit at a time until it reaches the creamy consistency you prefer.
+
+****
+
 
 Pasta salad with olives
 
