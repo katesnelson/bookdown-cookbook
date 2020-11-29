@@ -1,4 +1,7 @@
-
+@font-face {
+font-family: "Cabin Sketch";
+src: url(./CabinSketch.ttf);
+}
 
 p.caption {
   color: #777;
