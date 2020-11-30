@@ -1,4 +1,9 @@
-
+@font-face {
+font-family: "Cabin Sketch";
+src: url(./bookdown-cookbook/CabinSketch-Regular.ttf) format('truetype');
+    font-weight: regular;
+    font-style: normal;
+}
 
 p.caption {
   color: #777;
@@ -33,7 +38,7 @@ h2{
 h1{
 	
 	font-family: "Cabin Sketch", cursive;
-	font-size:28px;
+	font-size:36px;
 }
 text{
 	 <!--font-family: "Times New Roman", Times, serif;-->
