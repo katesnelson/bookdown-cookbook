@@ -12,13 +12,13 @@ link-citations: yes
 description: "This is a literal cookbook made using markdown in R with recipes you can actually eat."
 ---
 
-# Howdy {.unnumbered}
+# Intro {.unnumbered}
 
 This is a cookbook made in R. Yes, a literal cookbook. Not one of those "Cookbook for R" types with "recipes" for R code to do fun stuff with data. This cookbook has recipes that you will actually want to whip up in your kitchen and consume to nourish your body. Why make this in R you ask. Why not? I enjoy R (it clearly has invaded all aspects of my life) and it was an amusing way to learn the `Bookdown` package.
 
-
 <!--  Use nested CSS <div> containers notated using colons per [these directions](https://bookdown.org/yihui/rmarkdown-cookbook/multi-column.html) and cross-referencing per [these instructions](https://bookdown.org/yihui/rmarkdown-cookbook/cross-ref.html). -->
 
+# The Recipes {.unnumbered}
 
 :::: {style="display: grid; grid-template-columns: 25% 25% 25% 25%; grid-column-gap: 10px;
 grid-row-gap: 10px;"} 
