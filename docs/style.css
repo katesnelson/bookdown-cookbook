@@ -24,24 +24,6 @@ a{
 	<!--color:cadetblue;-->
 }
 
-<!--
-h3 { /* Header 3 */
-  font-size: 20px;
-  font-family:  <!--font-family: "Times New Roman", Times, serif;-->
-  color: black;
-  font-style: italic;
-  text-align: center;
-}
-h2{
-	 
-	font-size:24px;
-}
-h1{
-	
-	font-family: "Cabin Sketch", cursive;
-	font-size:36px;
-}
--->
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
@@ -61,6 +43,7 @@ h2, .h2 {
 
 h3, .h3 {
   font-size: 1.75rem;
+  text-align: center;
 }
 
 h4, .h4 {
