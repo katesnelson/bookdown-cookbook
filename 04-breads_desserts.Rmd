@@ -38,6 +38,9 @@ It's all about that crispy, crunchy crust! Replace the water with beer for a nic
 
 5. Bake at 500$^\circ$ for ~25 minutes. Pour 1 cup of hot water into the bottom of the oven when placing the bread in the oven. Do not open the oven door for at least 15 minutes to allow the steam from the water to help create the crispy crust.
 
+### Mira's Biscuits (and gravy) {- #biscuits}
+
+
 ### Snail Rolls {.unnumbered #snail rolls}
 
 <center>![](snail_roll_small.jpg){width=40%}</center>
@@ -49,7 +52,7 @@ A slightly sweet, low fat, milk bread roll. Great for breakfast or dessert.
 
 ### Monkey bread {.unnumbered #monkey}
 
-Naan
+<!--Naan
 
 Pizza dough
 
@@ -57,9 +60,11 @@ Beer bread
 
 Dinner rolls
 
-Donuts
+Donuts -->
 
-French breakfast puffs
+### French breakfast puffs {- #frenchpuffs}
+
+A Nelson family tradition.
 
 
 ## Desserts {.unnumbered}

@@ -6,6 +6,8 @@
 ### Falafel burgers {.unnumbered #burger}
 
 <center>![](falafel_burger_small.jpg){width=40%}</center>
+Contributed by *Tuan Nguyen*
+
 
 A wonderful, juicy burger with half the meat.
 
@@ -83,18 +85,41 @@ A slightly sweet and creamy corn chowder with crab and roasted poblano peppers.
 
 ****
 
-Home fries
+<!--Home fries
 
-Kale salad
+Kale salad-->
 
-Air-fried fish and chips
+### Air-fried "fish and chips" {- #fishandchips}
+<center>![](fish_and_chips_small.jpg){width=40%}</center>
 
-BBQ chicken pizza
+Crispy, battered fish and crispy potatoes without the frying.
 
-Creamy tomato soup
+:::: {.blackbox data-latex=""}
+
+<center>**Ingredients** (~4-6 servings)</center>
+
+::: {}
+- 1.5 lbs white fish (preferably cod) 
+- 2 cups panko breadcrumbs
+- 1/2 cup all purpose flour
+- 1/2 cup corn starch
+- 1 tsp baking powder
+- 4 oz beer (half a bottle)
+- 3 lbs yukon gold potatoes
+- oil
+- salt and pepper
+:::
+::::
+
+
+<!--BBQ chicken pizza
+
+Creamy tomato soup-->
 
 ### Butternut squash mac and cheese {- #squashmc}
 <center>![](squash_mandc_small.jpg){width=40%}</center>
+Contributed by *Lee Nelson*
+
 
 Add butternut squash for a creamy, low(er) fat version of mac and cheese. Yay!
 
@@ -129,24 +154,20 @@ Add butternut squash for a creamy, low(er) fat version of mac and cheese. Yay!
 ****
 
 
-Pasta salad with olives
-
-### Mira's Biscuits (and gravy) {- #biscuits}
+<!--Pasta salad with olives
 
 
 
-Corn chowder
-
-### Pulled meat {-}
+### Pulled meat {-}-->
 
 
 ## Indian {.unnumbered}
 
 Saag paneer
 
-Sahi korma
+<!--Sahi korma
 
-Peas palag paneer
+Peas palag paneer-->
 
 Pakoras
 
