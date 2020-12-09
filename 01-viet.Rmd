@@ -2,11 +2,14 @@
 
 This section is dedicated to Vietnamese recipes.
 
+
 ## Soups {.unnumbered}
 
 ### Bun bo hue {.unnumbered #bohue}
 
 <center>![](bun_bo_hue_small.jpg){width=40%}</center>
+
+
 
 Bun bo hue is a wonderful alternative for those of you tired of pho. It includes both beef and pork in a sweet and savory broth flavored with pineapple, lemongrass, and shrimp paste. While it feels very meat indulgent this recipe easily provides 8 or more servings at `~1/2` pounds of meat. The seasoning can be amped up a notch by adding a dollop of the spice mix to each bowl.
 
@@ -232,12 +235,54 @@ Serve the rice cakes with plenty of sauce drizzled over the top, some lime juice
 
 ## Banh {.unnumbered}
 
+### Banh Xeo {- #banhxeo}
+
+<center>![](banhxeo_small.jpg){width=40%}</center>
+
+
+Delicious savory crepes. A classic Vietnamese street food reinterpreted for a home-cooked dinner. Serve with [Special Fish Sauce](#fishsauce).
+
+</br>
+
+:::: {.blackbox data-latex=""}
+
+<center>**Ingredients** (~6 servings)</center>
+
+::: {}
+- 2 cups rice flour 
+- 1 Cup corn starch 
+- 2 teaspoons turmeric 
+- 1 tablespoon sugar 
+- 1/4 teaspoon baking soda 
+- 1 Cup finely chopped green onions 
+- 1 Cup coconut milk 
+- 1/2 Cup yellow mung beans or split piece (softened in warm water )
+- 4 cups water 
+
+- 1/2 pound shrimp 
+- 1/2 pound ground pork or chopped pork shoulder 
+- 1 teaspoon black pepper 
+- 2 teaspoons sugar 
+- 1 to 2 tablespoons fish sauce 
+
+- lettuce
+- herbs (mint, thai basil)
+- bean sprouts
+
+:::
+::::
+
+</br>
+
+1. 
+
+
+
 <center> ***Coming Soon*** </center>
 
 
 - Banh Bao
 
-- Banh Xeo
 
 - Banh Mi
 
@@ -274,7 +319,31 @@ Crispy pork belly
 
 - Eggrolls
 
-- Special fish sauce
+### Special fish sauce {- #fishsauce}
+
+The classic Vietnamese condiment and dipping sauce. A household staple.
+
+</br>
+
+:::: {.blackbox data-latex=""}
+
+<center>**Ingredients** (~6 servings)</center>
+
+::: {}
+- 3/4 Cup sugar 
+- 1/2 Cup vinegar 
+- 1/2 Cup fish sauce 
+- 2 cups water 
+
+:::
+::::
+
+</br>
+
+Combine all ingredients in saucepan and heat on medium heat until sugar has dissolved and liquid begins to bubble. Remove from heat. Can be stored in a sterile glass jar at room temperature. Add fresh squeezed lime juice and a dollop of chili garlic sauce two a small bowl of fish sauce before serving. 
+
+****
+
 
 - Pickled mustard greens
 

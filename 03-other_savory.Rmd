@@ -90,7 +90,7 @@ A slightly sweet and creamy corn chowder with crab and roasted poblano peppers.
 Kale salad-->
 
 ### Air-fried "fish and chips" {- #fishandchips}
-<center>![](fish_and_chips_small.jpg){width=40%}</center>
+<center>![](fish_chips_small.jpg){width=40%}</center>
 
 Crispy, battered fish and crispy potatoes without the frying.
 
@@ -163,7 +163,57 @@ Add butternut squash for a creamy, low(er) fat version of mac and cheese. Yay!
 
 ## Indian {.unnumbered}
 
-Saag paneer
+### Saag paneer {- #saag}
+
+<center>![](saag_small.jpg){width=40%}</center>
+
+
+Add mustard greens and buttermilk to this classic spinach curry. 
+
+</br>
+
+:::: {.blackbox data-latex=""}
+
+<center>**Ingredients** (~6 servings)</center>
+
+::: {}
+- 2 -3 Bay leaves 
+- 3 green cardamon pods 
+- 1 large yellow onion (diced)
+- 2 tablespoons minced garlic 
+- 1.5 tablespoons minced ginger 
+- 2 teaspoons  ground coriander 
+- 1 teaspoon ground cumin 
+- 1 tablespoon garam masala 
+- 1/2 tablespoon spicy Curry powder 
+- 1 teaspoon chili powder 
+- 1 teaspoon salt 
+- 3 tbsp ground cashews
+- 14 ounce can diced tomatoes 
+- 1 lb fresh spinach (chopped)
+- 1 lb fresh mustard greens (chopped)
+- 1 cup lowfat buttermilk
+- 1 lb paneer (cubed)
+
+:::
+::::
+
+</br>
+
+1. Heat oil in a large skillet. Add Bay leaves and cardamom pods And fry for one to two minutes. 
+
+2. Add diced onion 2 pan and fry until onions are Golden Brown and crispy on the edges about 5 to 10 minutes. 
+
+3. Add minced garlic and ginger and fry for 30 seconds to one minute until fragrant then add all spices salt and ground cashews and cook for an additional minute. 
+
+4. Add can of diced tomatoes with juice to the pan and cook until reduced and thickend about 10 minutes 
+
+5. Add fresh chopped spinach and fresh chopped mustard greens 2 pan with a little water.  Cover pan and let simmer on low heat until greens are softened. 
+
+6. Add half of the buttermilk then carefully pour all contents of pan into a blender. Blend until smooth then pour back into pan. 
+
+7. Add the remaining buttermilk and paneer that has been cut into half inch to 1 inch cubes. Cover and heat on low until mixture begins to bubble. Remove from heat and serve. 
+
 
 <!--Sahi korma
 
