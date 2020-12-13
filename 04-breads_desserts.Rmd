@@ -48,7 +48,49 @@ It's all about that crispy, crunchy crust! Replace the water with beer for a nic
 A slightly sweet, low fat, milk bread roll. Great for breakfast or dessert.
 
 
-### An pan (milk bread for filled buns) {.unnumbered #anpan}
+### Japanese milk bread (for filled buns) {.unnumbered #anpan}
+
+
+::::: {.blackbox data-latex=""}
+
+<center>**Ingredients** (~16 rolls)</center>
+
+:::: {style="display: grid; grid-template-columns: 90%; grid-column-gap: 10px;"}
+::: {}
+- 2.5 cups plus 1 tbsp bread flour
+- 1/2 cups all-purpose flour
+- 1/4 cup sugar
+- 2/3 tsp salt
+- 2 tsp yeast
+- 1 cup milk (slightly warmed)
+- 4 tbsp butter (softened)
+:::
+::::
+:::::
+
+</br>
+
+1. Combine yeast, sugar and 3/4 cup of the milk in a large mixing bowl and let sit for 10 min as yeast dissolves.
+
+2. In a microwavable bowl combine 1 tbsp of bread flour with the remaining 1/4 cup of milk.
+
+3. Make a tangzhou paste by microwaving the milk and flour mixture for 1 minute then stirring. If the paste is not thick and smooth (like over-mixed instant masked potatoes) microwave an additional 30 seconds then stir. Repeat as neccessary until you achieve the desired consistency.
+
+4. Add the remaining flour and salt to the mixing bowl with the wet ingredients and stir until incorporated. When the flour paste is cool add it to the dough and mix/knead for ~5 minutes.
+
+5. While the mixer is running, gradually add small pieces of the softened butter and mix until the dough is smooth and elastic and the butter is fully incorporated.
+
+6. Let rest in an oiled container about 1 hour or until doubled in size.
+
+7. Divide dough into 16 equal pieces and gently knead each into a small ball. On a lightly floured surface roll or press each ball into a circle ~3-4 inches in diameter.
+
+8. Place filing in the center of a circle of dough and gently pull sides of dough circle until they meet and pinch shut.
+
+9. Place filled rolls seam side down on a baking tray and cover with a towel or plastic wrap so it doesn't dry out. Let rise for ~45 minutes. 
+
+10. Preheat the over to 350$^\circ$. 
+
+5. Bake rolls at 350$^\circ$ for ~15 minutes until golden brown. For a nice shiny glaze brush the rolls with an eggwash after 10 minutes in the over.
 
 ### Monkey bread {.unnumbered #monkey}
 

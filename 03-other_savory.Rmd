@@ -43,6 +43,68 @@ A wonderful, juicy burger with half the meat.
 ### Hot chicken {.unnumbered #hotchicken}
 <center>![](hot_chicken_small.jpg){width=40%}</center>
 
+We used to crave hot chicken from Nashville-located Hattie B's. Not anymore.
+
+</br>
+
+::::: {.blackbox data-latex=""}
+
+<center>**Ingredients** (6-8 servings)</center>
+
+:::: {style="display: grid; grid-template-columns: 30% 30% 30%; grid-column-gap: 10px;"}
+::: {}
+For the spice mix:
+
+- 1 tbsp paprika
+- 1/2 tbsp smoked paprika
+- 1 tbsp chili powder
+- 1 tbsp cayenne
+
+:::
+
+::: {}
+For the batter:
+
+- 2 cups all-purpose flour
+- 4 tbsp spice mix
+- 2 tsp baking powder
+- 1 tbsp salt
+- 1 tbsp black pepper
+
+- 2 eggs (beaten)
+- 1 1/2 cup buttermilk
+- 3 tbsp hot sauce
+
+:::
+
+::: {}
+For the marinated chicken:
+
+- 3 lbs chicken breast
+- 3 cloves garlic (smashed)
+- 3 tbsp hot sauce
+- 1 cup pickle juice
+
+:::
+
+::::
+
+:::::
+
+</br>
+
+1. Cut chicken into ~1 inch thick slices. Place in a plastic container with the marinade of pickle juice, garlic,a nd hot sauce (use a vinegar based hot sauce like tabasco). Refrdigerate for at least 2 hours.
+
+2. Mix all dry batter ingredients in a bowl. In a seperate bowl combine all wet batter ingredients.
+
+3. Pat chicken dry then coat in dry batter mix, dip in the wet batter mix, then coat in the dry batter mix again.
+
+4. Fry chicken in small batches in ~2-3 inches of oil for ~6-7 minutes, turning the chicken over after ~3 minutes.
+
+
+
+****
+
 
 ### Hot chicken-fried tofu {.unnumbered #hottofu}
 <center>![](hot_chicken_tofu_small.jpg){width=40%}</center>

@@ -21,7 +21,7 @@ This is a cookbook made in R. Yes, a literal cookbook. Not one of those "Cookboo
 
 # The Recipes {.unnumbered}
 
-:::: {style="display: grid; grid-template-columns: 25% 25% 25% 25%; grid-column-gap: 10px;
+:::: {style="display: grid; grid-template-columns: 24% 24% 24% 24%; grid-column-gap: 10px;
 grid-row-gap: 10px;"} 
 
 ::: {}
@@ -47,8 +47,22 @@ grid-row-gap: 10px;"}
 
 ::: {}
 <center>
+[![](banhxeo_small.jpg){width=100%}](#banhxeo)
+[Banh Xeo](#banhxeo)
+</center>
+:::
+
+::: {}
+<center>
 [![](falafel_burger_small.jpg){width=100%}](#burger)
 [Falafel Burger](#burger)
+</center>
+:::
+
+::: {}
+<center>
+[![](saag_small.jpg){width=100%}](#saag)
+[Saag Paneer](#saag)
 </center>
 :::
 
@@ -143,17 +157,25 @@ grid-row-gap: 10px;"}
 </center>
 :::
 
+
 ::: {}
 <center>
-[![](saag_small.jpg){width=100%}](#saag)
-[Saag Paneer](#saag)
+[![](biscuits_gravy_small.jpg){width=100%}](#bicuits)
+[Biscuits and Gravy](#biscuits)
 </center>
 :::
 
 ::: {}
 <center>
-[![](banhxeo_small.jpg){width=100%}](#banhxeo)
-[Banh Xeo](#banhxeo)
+[![](eggplant_parm_small.jpg){width=100%}](#eggplantparm)
+[Eggplant Parmesan](#eggplantparm)
+</center>
+:::
+
+::: {}
+<center>
+[![](tatamen_small.jpg){width=100%}](#tatamen)
+[Tatamen Spicy Ramen](#tatamen)
 </center>
 :::
 
