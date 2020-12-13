@@ -50,6 +50,9 @@ A slightly sweet, low fat, milk bread roll. Great for breakfast or dessert.
 
 ### Japanese milk bread (for filled buns) {.unnumbered #anpan}
 
+<center>![](bbq_pork_buns_small.jpg){width=40%}</center>
+
+The bread used to make the delicous BBQ pork buns shown above. Great for sweet filled buns as well as savory.
 
 ::::: {.blackbox data-latex=""}
 
