@@ -286,13 +286,40 @@ Delicious savory crepes. A classic Vietnamese street food reinterpreted for a ho
 - Banh Bao
 
 
-- Banh Mi
+### Banh Mi {- #banhmi}
 
-<!--
+<center>![](banhmi_small.jpg){width=40%}</center>
 
-Banh with Char Siu pork
+::::: {.blackbox data-latex=""}
 
--->
+<center>**Ingredients** (recipe serves 2-3 people)</center>
+
+:::: {style="display: grid; grid-template-columns: 30% 30% 30%; grid-column-gap: 10px;"}
+
+::: {}
+For the ham:
+
+- 2 cup rice flour
+- 2 tbsp tapioca starch
+- 4 tbsp fish sauce
+- 1 tbsp sugar
+- 1/2 tbsp MSG (if available)
+:::
+
+::: {}
+For the pate:
+
+
+:::
+
+:::{}
+For the sandwich:
+
+
+:::
+
+::::
+:::::
 
 ## Meats {.unnumbered}
 

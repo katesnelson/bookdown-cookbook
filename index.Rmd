@@ -54,6 +54,13 @@ grid-row-gap: 10px;"}
 
 ::: {}
 <center>
+[![](banhmi_small.jpg){width=100%}](#banhmi)
+[Banh Mi](#banhmi)
+</center>
+:::
+
+::: {}
+<center>
 [![](falafel_burger_small.jpg){width=100%}](#burger)
 [Falafel Burger](#burger)
 </center>
