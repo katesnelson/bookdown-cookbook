@@ -324,9 +324,15 @@ Kabobs
 
 Tamales
 
-Papusas
+### Papusas {- #papusas}
 
-Picadillo
+<center>![](papusas_small.jpg){width=40%}</center>
+
+Akin to crispy tamales. This version is filled with pork carnitas, corn, and and cheddar cheese.
 
 
+### Picadillo {- #picadillo}
 
+<center>![](picadillo_small.jpg){width=40%}</center>
+
+The classic cuban dish served with rice and black beans.

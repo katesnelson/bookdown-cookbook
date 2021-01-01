@@ -276,14 +276,19 @@ Delicious savory crepes. A classic Vietnamese street food reinterpreted for a ho
 
 </br>
 
-1. 
+1. Marinate pork in two TSP sugar, black pepper and fish sauce for 10 to 15 minutes then cook on medium until starting to brown and caramelize.
+2. Boil shrimp in salted water until just cooked through, 2 to 3 minutes, then remove from pot. 
+3. Soften the mung beans in hot water for 30 minutes to one hour then drain the liquid. 
+4. Blend the softened mung beans with coconut milk in a food processor until smooth. 
+5. Mix the rice flour corn starch, baking soda  and turmeric together in a large mixing bowl. Add the water, chopped green onions, and coconut milk mung bean puree and whisk together.
+6. Heat a large nonstick skillet to medium heat and add 1 teaspoon oil. When oil is hot add one to 2 ladles of batter to the skillet and immediately swirl to create an even layer of batter on the bottom of the skillet. 
+7. Quickly add a small amount of pork and one or two shrimp and a small handful of bean sprouts to one side of the skillet before the batter dries. 
+8. When batter is dry to the touch, and the bottom is just starting to crisp and turn golden brown, fold the crepe in half (kinda like an omelet). Allow to continue cooking until bottom is crispy, then flip crepe and add 1 more teaspoon of oil to skillet to crisp the other side. 
+9. Remove from heat when both sides are a deep golden brown and crispy on the edges. (Maintaining a good medium to medium-low heat and keeping the layer of batter thin is key to producing a crepe that you can fold and that is crispy.)
+10. Serve crepes immediately with lettuce, herbs, and additional bean sprouts. The crepes are traditionally torn into smaller pieces and wrapped in the lettuce with the other herbs and vegetables Then dipped in special fish sauce with lime and chili garlic sauce.
+
 
 ****
-
-<center> ***Coming Soon*** </center>
-
-
-- Banh Bao
 
 
 ### Banh Mi {- #banhmi}
@@ -299,27 +304,54 @@ Delicious savory crepes. A classic Vietnamese street food reinterpreted for a ho
 ::: {}
 For the ham:
 
-- 2 cup rice flour
+- 2 lbs ground pork (fine ground if available)
 - 2 tbsp tapioca starch
 - 4 tbsp fish sauce
 - 1 tbsp sugar
 - 1/2 tbsp MSG (if available)
+- 3 tsp baking powder
+- 1/2 cup water
+
 :::
 
 ::: {}
 For the pate:
 
+- ground pork
+- chicken liver
+- garlic cloves
+- salt
+- pepper
 
 :::
 
 :::{}
 For the sandwich:
 
+- baguettes
+- pickled carrots and daikon radish
+- cilantro
+- cucumber
+- mayo and cilantro
 
 :::
 
 ::::
 :::::
+
+Make the ham:
+
+1. Mix baking powder with water then add to the ground pork and mix well. Refrigerate for ~6 hrs.
+
+2. Add fish sauce, sugar, MSG and pepper to pork mixture then beat in a stand mixer for ~10 minutes until very smooth and tacky.
+
+3. Rinse and dry some ~6 inch wide strips of banana leaf. Place a blob of pork mixture in the middle of a piece of banana leaf, roll into a cylinder, and fold the ends over. Then tightly wrap in plastic wrap to seal.
+
+4. Steam the rolls in a large stovetop steamer for ~20 minutes. The cooked ham rolls should be firm and bouncy. Cooked ham rolls freeze well for extended storage.
+
+Make the pate:
+
+****
 
 ## Meats {.unnumbered}
 
