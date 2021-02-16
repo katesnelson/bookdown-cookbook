@@ -1,6 +1,5 @@
 # Vietnamese {.unnumbered #viet}
 
-This section is dedicated to Vietnamese recipes.
 
 
 ## Soups {.unnumbered}
@@ -70,7 +69,7 @@ For the soup:
 
 2. Start the broth by cooking the bones and meat in `~8-10` cups water with salt and sugar until the meat is tender and easily pulls off the bone (about one cycle on "soup" setting in our InstantPot).
 
-3. Remove the meat and set aside. Put the bones back to the water and add a can of pineapple, a whole, peeled yellow onion; and lemongrass stalks or chopped lemongrass. Cover the pot and simmer for at least an hour (or another cycle in the InstantPot).
+3. Remove the meat and set aside. Put the bones back in the broth and add a can of pineapple, a whole, peeled yellow onion; and lemongrass stalks or chopped lemongrass. Cover the pot and simmer for at least an hour (or another cycle in the InstantPot).
 
 4. Add shrimp paste and spice mix to the broth then season with salt and sugar as needed.
 
@@ -143,31 +142,10 @@ For the soup:
 
 ****
 
-### Pho {-}
 
-<center> ***Coming Soon*** </center>
-
-<!--
-
-Bo kho
-
-Pickled mustard green soup
-
-Rau muon
-
--->
 
 ## Noodles and Rice {.unnumbered}
 
-<!--
-
-Bun with calamari and fried shrimp.
-
-Bun thit nuong with eggrolls.
-
-Fried Rice
-
--->
 
 ### Bot chien {.unnumbered #botchien}
 
@@ -188,6 +166,7 @@ There are 3 components to this dish: the **rice cake**, the **omelet**, and the 
 ::: {}
 For the rice cake:
 
+- 3 cups water
 - 2 cup rice flour
 - 2 tbsp tapioca starch
 - 1 tbsp sugar
@@ -353,34 +332,10 @@ Make the pate:
 
 ****
 
-## Meats {.unnumbered}
-
-### Lemongrass pork {.unnumbered #lgpork}
-
-<center> ***Coming Soon*** </center>
-
-<!--
-Carmel chicken
-
-Sweet and sour pork
-
-Little pork
-
-Crispy pork belly
--->
 
 
 ## Extras {.unnumbered}
 
-<center> ***Coming Soon*** </center>
-
-- Pate
-
-- Pickled carrots and daikon
-
-- Pickled mustard greens
-
-- Eggrolls
 
 ### Special fish sauce {- #fishsauce}
 
@@ -408,14 +363,3 @@ Combine all ingredients in saucepan and heat on medium heat until sugar has diss
 ****
 
 
-
-
-<!--
-
-Spring rolls with chili-lemongrass tofu
-
-Shrimp and omelet springrolls
-
-Peanut sauce
-
--->

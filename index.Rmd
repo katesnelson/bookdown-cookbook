@@ -19,8 +19,6 @@ This is a cookbook made in R. Yes, a literal cookbook. Not one of those "Cookboo
 
 <!--  Use nested CSS <div> containers notated using colons per [these directions](https://bookdown.org/yihui/rmarkdown-cookbook/multi-column.html) and cross-referencing per [these instructions](https://bookdown.org/yihui/rmarkdown-cookbook/cross-ref.html). -->
 
-# The Recipes {.unnumbered}
-
 :::: {style="display: grid; grid-template-columns: 24% 24% 24% 24%; grid-column-gap: 10px;
 grid-row-gap: 10px;"} 
 

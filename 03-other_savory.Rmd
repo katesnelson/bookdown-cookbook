@@ -281,48 +281,32 @@ Add mustard greens and buttermilk to this classic spinach curry.
 
 Peas palag paneer-->
 
-Pakoras
 
-Tandori Chicken
-
-Chicken korma
 
 
 ## European {.unnumbered}
 
-### Moussaka {.unnumbered #moussaka}
+
+<!-- Gazpacho -->
+
+<!-- Tabouli -->
 
 
-<center>![](moussaka_small.jpg){width=40%}</center>
+<!-- Caldo Verde -->
 
-
-Spinach and beef lasagna
-
-Pasta primavera
-
-Gazpacho
-
-Tabouli
-
-Baba ganoush
-
-Marinated tomatoes and cucumbers
-
-Caldo Verde
-
-Yorkshire Pudding with Beef and Mushrooms
+<!-- Yorkshire Pudding with Beef and Mushrooms -->
 
 ## Middle Eastern and African {.unnumbered}
 
-Kefta
+<!-- Kefta -->
 
-Doro Wat
+<!-- Doro Wat -->
 
-Kabobs
+<!-- Kabobs -->
 
 ## Latin American {.unnumbered}
 
-Tamales
+
 
 ### Papusas {- #papusas}
 

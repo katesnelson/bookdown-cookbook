@@ -3,16 +3,16 @@
 
 ## Chinese {.unnumbered}
 
-### Ma po tofu {.unnumbered #mapotofu}
+<!-- ### Ma po tofu {.unnumbered #mapotofu} -->
 
-<center> ***Coming Soon*** </center>
+<!-- <center> ***Coming Soon*** </center> -->
 
 ### Ginger fish {.unnumbered #gingerfish}
 
 
 <center>![](ginger_fish_small.jpg){width=40%}</center>
 
-### Smashed cucumber salad {.unnumbered #cucsalad}
+<!-- ### Smashed cucumber salad {.unnumbered #cucsalad} -->
 
 <center> ***Coming Soon*** </center>
 
@@ -20,13 +20,13 @@
 
 <center>![](bbq_pork_buns_small.jpg){width=40%}</center>
 
-Sauted bok choy in white sauce
+<!-- Sauted bok choy in white sauce -->
 
-Veggie Lo Mein
+<!-- Veggie Lo Mein -->
 
-Rice noodle stir fry
+<!-- Rice noodle stir fry -->
 
-Hot and sour soup
+<!-- Hot and sour soup -->
 
 ### Egg drop soup {- #eggdrop}
 
@@ -65,36 +65,34 @@ chopped green onion
 
 ## Japanese {.unnumbered}
 
-Curry buns
+<!-- Curry buns -->
 
-White bean paste buns
+<!-- White bean paste buns -->
 
-Tatamen Spicy Ramen
+### Tatamen Spicy Ramen {- tatamen}
 
-Tonkatsu Pork Ramen
+<!-- Tonkatsu Pork Ramen -->
 
-Miso
-
-Fried Shrimp and Calamari Sushi
+<!-- Homemade noodles -->
 
 
-## Korean {.unnumbered}
+<!-- ## Korean {.unnumbered} -->
 
-### Bibimbap with crispy rice {.unnumbered #crispyrice}
+<!-- ### Bibimbap with crispy rice {.unnumbered #crispyrice} -->
 
-<center>![](crispy_rice_small.jpg){width=40%}</center>
-
-
-Jap chae
-
-Leftover pancakes
+<!-- <center>![](crispy_rice_small.jpg){width=40%}</center> -->
 
 
-## Thai {.unnumbered}
+<!-- Jap chae -->
 
-Coconut curry
+<!-- Leftover pancakes -->
 
-Pad Thai
+
+<!-- ## Thai {.unnumbered} -->
+
+<!-- Coconut curry -->
+
+<!-- Pad Thai -->
 
 
 

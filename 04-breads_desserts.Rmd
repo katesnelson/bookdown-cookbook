@@ -128,7 +128,7 @@ The bread used to make the delicous BBQ pork buns shown above. Great for sweet f
 
 5. Bake rolls at 350$^\circ$ for ~15 minutes until golden brown. For a nice shiny glaze brush the rolls with an eggwash after 10 minutes in the over.
 
-### Monkey bread {.unnumbered #monkey}
+<!-- ### Monkey bread {.unnumbered #monkey} -->
 
 <!--Naan
 
@@ -207,12 +207,12 @@ White bean paste buns
 
 <center>![](pumpkin_mousse_cake_small.jpg){width=40%}</center>
 
-Crepes
+<!-- Crepes -->
 
-Leftover jam
+<!-- Leftover jam -->
 
-Leftover galletes
+<!-- Leftover galletes -->
 
-Lemon merengue pie
+<!-- Lemon merengue pie -->
 
 
